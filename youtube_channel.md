@@ -3,6 +3,8 @@
 
 [channel on youtube](https://www.youtube.com/watch?v=qpGGR9e1_Fo&list=PL8P_Z6C4GcuWfAq8Pt6PBYlck4OprHXsw&index=2)
 
+![overview](aws_nlp_course.png)
+
 #### Section 1
 
 | Number | Theme |
